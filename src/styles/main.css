@@ -1,0 +1,12 @@
+/* Use Flexbox row direction so that you have a horizontal list of items. */
+.foodList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+  }
+  
+  .foodSection {
+    border: 2px solid lightcoral;
+    margin: 1px;
+    padding: 10px
+  }

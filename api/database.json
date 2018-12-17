@@ -1,0 +1,34 @@
+{
+  "food": [
+    {
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian",
+      "id": 1
+    },
+    {
+      "name": "Massaman curry",
+      "type": "curry",
+      "ethnicity": "thai",
+      "id": 2
+    },
+    {
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai",
+      "id": 3
+    },
+    {
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian",
+      "id": 4
+    },
+    {
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian",
+      "id": 5
+    }
+  ]
+}
